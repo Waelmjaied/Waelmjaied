@@ -10,7 +10,7 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://linkedin.com/in/Wael Mjaied">
+  <a href="https://www.linkedin.com/in/wael-mjaied-b2b591340?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
   <a href="mailto:waelmjaied99@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="30"/>
