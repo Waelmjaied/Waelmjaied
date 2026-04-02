@@ -35,5 +35,4 @@
 ✔️ System Design Basics
 
 ![Visitors](https://komarev.com/ghpvc/?username=Wael Mjaied)
-
-![Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/Waelmjaied/Waelmjaied/blob/output/github-contribution-grid-snake.svg)
