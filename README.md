@@ -1,29 +1,39 @@
-Hi, I'm Wael Mjaied👋  
-Software Engineer from Tunisia 🇹🇳  
+<h1 align="center">Hi 👋, I'm Wael</h1>
+<h3 align="center">Software Engineer | Backend Specialist</h3>
 
-<!--
-**Waelmjaied/Waelmjaied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/yourname">LinkedIn</a> •
+  <a href="mailto:you@email.com">Email</a>
+</p>
 
-Here are some ideas to get you started:
+![Stats](https://github-readme-stats.vercel.app/api?username=Wael Mjaied&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=Wael Mjaied&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🚀 Tech Stack
-- Java / Spring Boot
-- React / JavaScript
-- MySQL / PostgreSQL
-- Git & Docker
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Spring+Boot+Developer;Problem+Solver)
 
- 
-## 📫 Contact Me
-- LinkedIn: Wael Mjaied
-- Email: waelmjaied99@gmail.com
+## 🛠️ Tech Stack
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+
+## 🚀 Featured Projects
+
+### 🧳 Trip Reservation Platform
+- Built with Spring Boot & React
+- Payment integration
+- REST API architecture
+- Scalable backend design
+
+- ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wael Mjaied)
+
+- ✔️ REST API Design  
+✔️ Authentication & Security  
+✔️ Database Optimization  
+✔️ System Design Basics
+
+![Visitors](https://komarev.com/ghpvc/?username=Wael Mjaied)
+
+![Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
