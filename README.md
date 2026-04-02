@@ -25,7 +25,6 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=Waelmjaied&theme=tokyonight)
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Spring+Boot+Developer;Problem+Solver)
 
 ## 🛠️ Tech Stack
 
