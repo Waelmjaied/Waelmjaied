@@ -1,13 +1,30 @@
-<h1 align="center">Hi 👋, I'm Wael Mjaied</h1>
-<h3 align="center">Software Engineer | Backend Specialist</h3>
-
+<!-- Banner (optional) -->
 <p align="center">
-  <a href="https://linkedin.com/in/Wael Mjaied">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Wael%20Mjaied&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- Name -->
+<h1 align="center">Hi 👋, I'm Wael</h1>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Spring+Boot+Developer;Building+Scalable+Systems;Always+Learning+New+Tech&center=true&width=500&height=45&color=00ADB5&vCenter=true&size=22">
+</p>
+
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
   </a>
-  <a href="mailto:waelmjaied99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="30"/>
   </a>
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750648-bd9b2c1e-6b1e-4b5f-9c2c-8c84e9c5d1d1.gif" width="80%">
 </p>
 
 
