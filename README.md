@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer | Backend Specialist</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourname">LinkedIn</a> •
-  <a href="mailto:you@email.com">Email</a>
+  <a href="https://linkedin.com/in/Wael Mjaied">LinkedIn</a> •
+  <a href="mailto:waelmjaied99@gmail.com">Email</a>
 </p>
 
 
@@ -52,7 +52,6 @@
 - REST API architecture
 - Scalable backend design
 
-- ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Waelmjaied)
 
 - ✔️ REST API Design  
 ✔️ Authentication & Security  
