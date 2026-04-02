@@ -6,7 +6,7 @@
   <a href="mailto:you@email.com">Email</a>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Waelmjaied&show_icons=true&theme=tokyonight)
+
 ![Streak](https://streak-stats.demolab.com/?user=Waelmjaied&theme=tokyonight)
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Spring+Boot+Developer;Problem+Solver)
