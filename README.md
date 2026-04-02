@@ -6,8 +6,8 @@
   <a href="mailto:you@email.com">Email</a>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Wael Mjaied&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com/?user=Wael Mjaied&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Waelmjaied&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=Waelmjaied&theme=tokyonight)
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Spring+Boot+Developer;Problem+Solver)
 
@@ -34,5 +34,5 @@
 ✔️ Database Optimization  
 ✔️ System Design Basics
 
-![Visitors](https://komarev.com/ghpvc/?username=Wael Mjaied)
+![Visitors](https://komarev.com/ghpvc/?username=Waelmjaied)
 ![Snake](https://github.com/Waelmjaied/Waelmjaied/blob/output/github-contribution-grid-snake.svg)
