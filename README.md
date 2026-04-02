@@ -27,7 +27,7 @@
 - REST API architecture
 - Scalable backend design
 
-- ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wael Mjaied)
+- ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Waelmjaied)
 
 - ✔️ REST API Design  
 ✔️ Authentication & Security  
