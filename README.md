@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Wael%20Mjaied&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- Name -->
-<h1 align="center">Hi 👋, I'm Wael</h1>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Spring+Boot+Developer;Building+Scalable+Systems;Always+Learning+New+Tech&center=true&width=500&height=45&color=00ADB5&vCenter=true&size=22">
