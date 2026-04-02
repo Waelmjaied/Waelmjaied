@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Spring+Boot+Developer;Building+Scalable+Systems;Always+Learning+New+Tech&center=true&width=500&height=45&color=00ADB5&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Back+end+Developer;Building+Scalable+Systems;Always+Learning+New+Tech&center=true&width=500&height=45&color=00ADB5&vCenter=true&size=22">
 </p>
 
 <!-- Social Icons -->
